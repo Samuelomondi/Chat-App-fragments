@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "143876349693",
+    "firebase_url": "https://wagwan-1-default-rtdb.firebaseio.com",
+    "project_id": "wagwan-1",
+    "storage_bucket": "wagwan-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143876349693:android:ced0921fd174001163e894",
+        "android_client_info": {
+          "package_name": "com.sambody.fragmenttests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143876349693-5l2ulfas660pvesgg1nkjlboufn5ug03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd5DHUgx5QjODvEJ7WYOusct9d0j28o70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143876349693-5l2ulfas660pvesgg1nkjlboufn5ug03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143876349693:android:7576159b80c2882963e894",
+        "android_client_info": {
+          "package_name": "com.sambody.wagwan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143876349693-5l2ulfas660pvesgg1nkjlboufn5ug03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd5DHUgx5QjODvEJ7WYOusct9d0j28o70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143876349693-5l2ulfas660pvesgg1nkjlboufn5ug03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
